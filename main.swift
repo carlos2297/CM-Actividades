@@ -1,3 +1,7 @@
+/*ACTIVIDAD 1
+--HERNANDEZ ALBINO EDGAR ALEJANDRO
+--RANGEL GARCIA CARLOS ALBERTO
+*/
 class Alumno {
   var nombre: String?
   var edad:  Int?
